@@ -2,7 +2,7 @@
   "name": "Start on Heroku: Python",
   "description": "A barebones Python app, which can easily be deployed to Heroku.",
   "image": "heroku/python",
-  "repository": "https://github.com/Hedde/fastapi-heroku-test",
+  "repository": "https://github.com/dennislwm/fastapi-heroku-test",
   "keywords": ["python", "fastapi" ],
   "env": {
   },
